@@ -104,6 +104,3 @@ _Student | Backend Dev_
 MIT License
 ```
 
----
-
-Paste that into your `README.md` and you're good to go. Let me know if you want a logo or badges later — we can make it look extra spicy 🌶️.
